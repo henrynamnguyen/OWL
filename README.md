@@ -23,12 +23,9 @@ python -m src.main \
   --model-type, -mt # This model's provider (eg. openai)
   --explore-model, -em # The model use for exploration
   --explore-model-type, emt  # The explore model's provider (eg. openai)
-  --execute-temp, -et # What temp to execute at (default 0)
-  --explore-temp, -ept # What tempt to explore at (default 0)
-  --explore-environment-iterations, -eei # How many iterations of SSEAL to run.
+  --explore-environment-iterations, -eei # How many iterations of OWL to run.
   --max_iterations_per_episode, -mipe # How many iterations per query
   --benchmark_path, -bp # Which benchmark to run, should be a .py file in src/benchmarks
-  --task, -t # Which task to run (eg. sports_data)
 ```
 
 ### Example Command
