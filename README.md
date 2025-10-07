@@ -33,7 +33,7 @@ python -m src.main \
 Running gpt-4o-mini as agent with gpt-4o as the exploration model.
 
 ```
-python -m src.main -bp linux_terminal.py --task linux_terminal -mipe 10 -eei 4 -m gpt-4o-mini -em gpt-4o
+python -m src.main -bp linux_terminal.py --task nexus-adversarial -mipe 10 -eei 4 -m gpt-4o-mini -em gpt-4o
 ```
 
 ### Caching
