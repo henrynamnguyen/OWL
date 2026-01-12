@@ -1,5 +1,14 @@
 # OWL (Observer, Write, Learn) - An Efficient Framework For AI Agents
 
+Individual Project For GStar Research Bootcamp 2025
+
+Results:
+
+<img width="655" height="403" alt="Screenshot 2026-01-13 at 2 45 09 AM" src="https://github.com/user-attachments/assets/c4dfe995-212f-4072-8dbc-cee6136fd277" />
+<img width="599" height="376" alt="Screenshot 2026-01-13 at 2 45 46 AM" src="https://github.com/user-attachments/assets/0bbe77f0-0aba-41da-8084-b40f1d28f1fb" />
+<img width="587" height="376" alt="Screenshot 2026-01-13 at 2 46 37 AM" src="https://github.com/user-attachments/assets/c27aa291-3973-43f3-a4a4-0433289100a4" />
+
+
 ## Setup
 
 ### Install Python Packages
